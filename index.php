@@ -1,20 +1,5 @@
 <head> 
-<meta property="og:title" content="Guess song titles with specific words in them..."/> 
-<meta property="fb:admins" content="578315273"/> 
 
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-29674372-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 </head>
 <div id="fb-root"></div>
 
@@ -36,7 +21,4 @@ echo"</br>";
 echo"To get a new word, just refresh the page";
 echo"</br></br></br>";
 
-
-
-echo"</br>";
 echo"contact : zlyma.contact@gmail.com";
