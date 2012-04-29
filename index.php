@@ -1,7 +1,3 @@
-<head> 
-
-</head>
-<div id="fb-root"></div>
 
 <?php 
 $keywords_array=array("sun","life","never","always","world","believe","young","sexy","together","born","poker","love","young","good","you","forgive","high","somebody","city","turn");

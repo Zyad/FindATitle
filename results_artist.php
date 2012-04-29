@@ -1,5 +1,4 @@
-<head> 
-</head>
+
 <?
 require_once 'Zend/Loader.php';
 
